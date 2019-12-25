@@ -16,11 +16,11 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !----------ABCDEFGHIK---------------
-*.nintentdo.com*
-*//githubstatus.com*
-*.github.io*
-*.githubusercontent.com*
-*.github.com*
+nintentdo.com
+*//githubstatus.com
+github.io
+githubusercontent.com
+github.com
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
